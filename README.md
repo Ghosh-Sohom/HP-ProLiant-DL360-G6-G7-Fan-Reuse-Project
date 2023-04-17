@@ -10,7 +10,7 @@ This GitHub repository provides information, diagrams, PCB designs, and Arduino 
 - Contributing
 ### Overview
 The HP Proliant Series DL360 G6 and G7 fans are high-quality, durable, and efficient cooling solutions that have been used in various industrial applications. Unfortunately, their proprietary connectors make them difficult to use for other purposes, limiting their reuse outside their intended use.
-![HP Proliant series sever fans DL360 for G6 and G7](https://imgur.com/SZJa2Sc)
+![HP Proliant series sever fans DL360 for G6 and G7](https://in.pinterest.com/pin/29343835065663894)
 
 This repository provides a comprehensive guide to enable users to repurpose these fans. We provide detailed information, diagrams, PCB designs, and Arduino code to help users get started with using these fans. Our goal is to ensure that these fans are not only reusable but also useful in other applications.
 
