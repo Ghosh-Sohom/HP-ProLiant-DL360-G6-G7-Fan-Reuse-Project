@@ -1,6 +1,7 @@
 //Code by Sohom Ghosh, with credits to Federico Dossena (https://fdossena.com/?p=ArduinoFanControl/i.md). This code can be used to run HP DL360 G6 and G7 series server
 //fans outside their inteded use case. Currently I have been unable decode the sence/tach pins, the code allows for reading to tach of notrmal PWM pins via pin 2.
 //I will update the code as soon as possible to add the sense/tach feature of the fans. Till then stay cool.
+// Email: sghosh1072@gmail.com
 // Github: https://github.com/Ghosh-Sohom
 // LinkedIn: https://www.linkedin.com/in/sohom-ghosh/
 
