@@ -18,8 +18,8 @@ This repository provides a comprehensive guide to enable users to repurpose thes
 This repository includes the following features:
 
 1. [Pinout diagram](https://in.pinterest.com/pin/29343835065663880/) for the proprietary connectors used in the HP Proliant Series DL360 G6 and G7 fans.
-2. PCB designs for connecting the proprietary connectors to standard connectors.
-3. Arduino code for controlling the fan speed using PWM.
+2. [PCB designs](https://github.com/Ghosh-Sohom/HP-ProLiant-DL360-G6-G7-Fan-Reuse-Project/blob/fa99ac65fb46d815a2f2a44f4c6c5ac0088795ca/HP%20DL360%20Fan%20PCB.kicad_pcb) for connecting the proprietary connectors to standard connectors.
+3. [Arduino code](https://github.com/Ghosh-Sohom/HP-ProLiant-DL360-G6-G7-Fan-Reuse-Project/blob/fa99ac65fb46d815a2f2a44f4c6c5ac0088795ca/PWM_fan_control_code.ino) for controlling the fan speed using PWM.
 4. Detailed information on how to repurpose the fans for different applications.
 ### Installation
 To use this repository, simply clone or download the repository onto your local machine. You will need the following tools:
