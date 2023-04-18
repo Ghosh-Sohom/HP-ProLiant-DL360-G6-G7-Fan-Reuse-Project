@@ -6,13 +6,13 @@
 //      -------------
 //     | Arduino Pin | Fan Connector Pin |  Function          |
 //     | ----------- | ---------------- | ------------------ |
-//     |      1      |        1         |  Ground            |
-//     |      2      |        2         |  VCC               |
-//     |      3      |        3         |  Data (Input/Output)|
-//     |      4      |        4         |  Clock (Input)     |
-//     |      5      |        5         |  PWM (Output)      |
-//     |      6      |        6         |  Tachometer (Input)|
-
+//     |     VIN     |        -         |  5V                |
+//     |     GND     |        5         |  Ground            |
+//     |      9      |        2         |  PWM               |
+//     |      2      |        4         |  Tach1             |
+//     |      3      |        6         |  Tach2             |
+//     |      -      |        3         |  12v (back fan)    |
+//     |      -      |        1         |  12v (front fan)   |
 
 
 
