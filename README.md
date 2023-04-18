@@ -2,6 +2,9 @@
 
 This GitHub repository provides information, diagrams, PCB designs, and Arduino code to help users reuse the HP Proliant Series DL360 G6 and G7 fans. These fans come with proprietary connectors, which make them unusable outside their intended use. With the information and tools provided in this repository, users can now utilize these fans for other purposes, including computer cooling systems, personal projects, or other industrial applications.
 
+![HP Proliant series sever fans DL360 for G6 and G7](https://github.com/Ghosh-Sohom/HP-ProLiant-DL360-G6-G7-Fan-Reuse-Project/blob/135ac6800975fcd155ef7a9058fb41751126d49d/HP_Server_Fan_Assembly_For_HP_Proliant.jpg.webp)
+
+
 ## Table of Contents
 - Overview
 - Features
@@ -10,7 +13,7 @@ This GitHub repository provides information, diagrams, PCB designs, and Arduino 
 - Contributing
 ### Overview
 The HP Proliant Series DL360 G6 and G7 fans are high-quality, durable, and efficient cooling solutions that have been used in various industrial applications. Unfortunately, their proprietary connectors make them difficult to use for other purposes, limiting their reuse outside their intended use.
-![HP Proliant series sever fans DL360 for G6 and G7](https://github.com/Ghosh-Sohom/HP-ProLiant-DL360-G6-G7-Fan-Reuse-Project/blob/135ac6800975fcd155ef7a9058fb41751126d49d/HP_Server_Fan_Assembly_For_HP_Proliant.jpg.webp)
+
 
 This repository provides a comprehensive guide to enable users to repurpose these fans. We provide detailed information, diagrams, PCB designs, and Arduino code to help users get started with using these fans. Our goal is to ensure that these fans are not only reusable but also useful in other applications.
 
